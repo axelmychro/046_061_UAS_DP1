@@ -6,8 +6,8 @@
 
 Kelompok <b>donasi-aura</b>: Café Order Program
 
-- Arie
-- Axel
+- Arie Ardinata Kusuma
+- M. Axel Daffa Ramadhan
 
 <hr />
 
