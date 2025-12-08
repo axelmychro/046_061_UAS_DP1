@@ -6,8 +6,7 @@
 
 Kelompok <b>donasi-aura</b>: Café Order Program
 
-- Axel
-- Arie
+<p>- Axel</p>
 
 <hr />
 
