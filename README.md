@@ -16,5 +16,5 @@ Kelompok <b>donasi-aura</b>: Café Order Program
 
 </div>
 
-<img src="https://img.shields.io/badge/Dasar%20Pemrograman-Lab%201-darkblue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pascal-blue?style=for-the-badge" />
+![Static Badge](https://img.shields.io/badge/Dasar%20Pemrograman-Lab%201-darkblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Pascal-blue?style=for-the-badge)
