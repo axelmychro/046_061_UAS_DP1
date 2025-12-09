@@ -6,14 +6,14 @@
 
 Kelompok <b>donasi-aura</b>: Café Order Program
 
-- Arie Ardinata Kusuma
-- M. Axel Daffa Ramadhan
+- 251401046 - Arie Ardinata Kusuma
+- 251401061 - M. Axel Daffa Ramadhan
 
 <hr />
 
-- File <a href="https://docs.google.com/document/d/1LJVStxtnlkTzFlzyo3bFEDQLmZ-VY9ClqO6D03lRSGk/edit?usp=sharing">Dokumentasi</a>
-- Source <a href="./CafeOrder.pas">Code</a>
-- <a href="#">Video</a> Penjelasan
+- <a href="https://docs.google.com/document/d/1LJVStxtnlkTzFlzyo3bFEDQLmZ-VY9ClqO6D03lRSGk/edit?usp=sharing">File Dokumentasi</a>
+- <a href="./CafeOrder.pas">Source Code</a>
+- <a href="https://youtu.be/gNwwHmJdHUk">Video Penjelasan</a>
 
 </div>
 
