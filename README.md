@@ -1,15 +1,20 @@
 # UAS Dasar Pemrograman Lab 1
 
-## Program Pemesanan Café Sederhana
+### Program Pemesanan Café Sederhana
 
-<div style="background:#fafafa; padding:1rem; margin: 2rem 0; border-radius:2px; color:#0a0a0a;">
+> [!NOTE]
+> Dokumentasi ini berisi hasil project ujian akhir semester kami
 
-Kelompok <b>donasi-aura</b>: Café Order Program
+<div style="background:#fafafa; padding:1rem 2rem; border-radius:8px; color:#0a0a0a;">
+
+#### Kelompok donasi-aura: Café Order Program
 
 - 251401046 - Arie Ardinata Kusuma
 - 251401061 - M. Axel Daffa Ramadhan
 
 <hr />
+
+#### Penilaian
 
 - <a href="https://docs.google.com/document/d/1LJVStxtnlkTzFlzyo3bFEDQLmZ-VY9ClqO6D03lRSGk/edit?usp=sharing">File Dokumentasi</a>
 - <a href="./CafeOrder.pas">Source Code</a>
